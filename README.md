@@ -77,8 +77,6 @@ Here you will find projects related to:
 
 I am always open to collaborating on data, AI, and automation projects.
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/leonardkiprop/*
-
 ---
 
 ⭐ Feel free to explore my repositories and connect if you find my work interesting!
