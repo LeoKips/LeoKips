@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leonard or Leo
+# 👋 Hi, I'm Leonard (*Leo*)
 
 🚀 **Data & AI Enthusiast | Analytics | Machine Learning | Agentic AI**
 
