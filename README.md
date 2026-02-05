@@ -2,7 +2,7 @@
 
 🚀 **Data & AI Enthusiast | Analytics | Machine Learning | Agentic AI**
 
-Welcome to my GitHub portfolio! I am passionate about transforming raw data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working across the data lifecycle, from data collection and wrangling to predictive modelling and AI agent development.
+Welcome to my GitHub portfolio! I am passionate about transforming raw data into actionable insights and developing intelligent solutions that solve real world problems. I enjoy working across the data lifecycle, from data collection and wrangling to predictive modelling and AI agent development.
 
 ---
 
